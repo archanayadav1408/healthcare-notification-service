@@ -1,0 +1,4 @@
+com\healthcare\notification\NotificationServiceApplication.class
+com\healthcare\notification\AppointmentBookedEvent.class
+com\healthcare\notification\KafkaConsumerConfig.class
+com\healthcare\notification\NotificationService.class
